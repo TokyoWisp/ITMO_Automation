@@ -9,10 +9,10 @@
 
 #print(task_3(6))
 
-def num(num1, num2):
-    if num1 - num2 == 135 or num2 - num1 == 135:
+def numbers(num1, num2, num3):
+    if num1 > 10 and num2 > 10 and num3 > 10:
         print('Yes')
     else:
         print('No')
 
-num(15, 10)
+numbers(11, 14, 19)
