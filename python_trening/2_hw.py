@@ -9,3 +9,10 @@
 
 #print(task_3(6))
 
+def num(num1, num2):
+    if num1 - num2 == 135 or num2 - num1 == 135:
+        print('Yes')
+    else:
+        print('No')
+
+num(15, 10)
