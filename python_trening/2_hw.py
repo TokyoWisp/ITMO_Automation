@@ -4,7 +4,8 @@
 #print(task_2())
 
 
-def task_3(a: int) -> int:
-    return (a ** 2)
+#def task_3(a: int) -> int:
+#    return (a ** 2)
 
-print(task_3(6))
+#print(task_3(6))
+
