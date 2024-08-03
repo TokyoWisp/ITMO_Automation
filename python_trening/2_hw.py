@@ -15,4 +15,4 @@ def numbers(num1, num2, num3):
     else:
         print('No')
 
-numbers(11, 14, 19)
+numbers(10, 14, 19)
